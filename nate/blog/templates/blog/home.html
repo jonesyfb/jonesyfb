@@ -1,0 +1,7 @@
+<h1> MY BLAWGS </h1>
+
+{% for blog in blogs %}
+<div style="background: blue; margin: 20px; padding: 20px; font-size: 33px;">
+    <a href="/blog/{{ blog.id }}/"> {{ blog.title }} </a>
+</div>
+{% endfor %}
