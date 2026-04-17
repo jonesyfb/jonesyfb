@@ -20,7 +20,7 @@ Web developer and systems programmer. I build Django apps professionally and wri
 ## stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jonesyfb&theme=tokyonight&hide_border=true&width=600" />
+  <img src="https://streak-stats.demolab.com?user=jonesyfb&theme=tokyonight&hide_border=true&card_width=450" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesyfb&layout=compact&theme=tokyonight&hide_border=true&width=600" />
