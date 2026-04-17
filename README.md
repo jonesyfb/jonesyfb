@@ -6,22 +6,23 @@ Web developer and systems programmer. I build Django apps professionally and wri
 
 ## stack
 
-**languages**
-- Python — professional, daily use
-- Rust — hobby, actively learning
-- SQL, HTML/CSS, JS as needed
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**frameworks & tools**
-- Django, Django REST Framework
-- Axum, Tokio (Rust backend)
-- Bevy (Rust game dev)
-- Vim, Git, Arch Linux
+---
 
-**infra I actually use**
-- Proxmox + ZFS + LXC/Docker
-- Nginx, WireGuard
-- Backblaze B2, Sanoid/Syncoid for backups
-- S3-compatible object storage
+## stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonesyfb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesyfb&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -38,6 +39,14 @@ Web developer and systems programmer. I build Django apps professionally and wri
 - Rust — working through [Bevy](https://bevyengine.org/) for game dev and building backend services with Axum
 - Local LLM tooling — Ollama, RAG pipelines, FAISS/Qdrant
 - Homelab infra — self-hosting everything, Proxmox cluster with Jellyfin, Vaultwarden, game servers
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonesyfb/jonesyfb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonesyfb/jonesyfb/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jonesyfb/jonesyfb/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
