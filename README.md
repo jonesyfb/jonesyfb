@@ -52,7 +52,7 @@ Web developer and systems programmer. I build Django apps professionally and wri
 
 ## elsewhere
 
-- 💼 [Fulcrum Network Technologies](https://fulcrumnet.tech)
+- 💼 [Fulcrum Network Technologies](https://fulcrumntechsupport.com)
 
 ---
 
